@@ -6,5 +6,9 @@ This is for devops demo
 This is for devops git bash practice
 This is for fetching command demo
 this is for pull command demo
+<<<<<<< HEAD
 This is for local conflict
 
+=======
+This is for confict resolving 
+>>>>>>> b6b6d01954b29129a2c4fa0797f488fe79b6504d
