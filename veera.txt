@@ -9,3 +9,5 @@ this is for pull command demo
 This is for local conflict
 This is for confict resolving 
 This is for my task brach demo 
+Git is good for scm tool
+DevOps is good for learning
